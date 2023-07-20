@@ -1,6 +1,6 @@
 # BallUP
 
-The App is hosted at: [https://ball-up-deployment.vercel.app/-79.4005188,43.6622882,12]
+The App is hosted at: https://ball-up-deployment.vercel.app/-79.4005188,43.6622882,12
 
 An application designed to help basketball players and enthusiasts find courts near them. The app caters to both non-registered and registered users. While non-registered users can find courts near them, registered users enjoy the privilege of adding new courts, viewing their contributions, and adding comments and addresses.
 
